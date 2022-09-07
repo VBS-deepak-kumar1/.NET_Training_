@@ -1,0 +1,7 @@
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\obj\Debug\Demo_Invalid_Exception.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\obj\Debug\Demo_Invalid_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\bin\Debug\Demo_Invalid_Exception.exe.config
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\bin\Debug\Demo_Invalid_Exception.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\bin\Debug\Demo_Invalid_Exception.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\obj\Debug\Demo_Invalid_Exception.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Invalid_Exception\Demo_Invalid_Exception\obj\Debug\Demo_Invalid_Exception.pdb

@@ -1,0 +1,7 @@
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\bin\Debug\Demo_Delegate_Single_Casting.exe.config
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\bin\Debug\Demo_Delegate_Single_Casting.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\bin\Debug\Demo_Delegate_Single_Casting.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\obj\Debug\Demo_Delegate_Single_Casting.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\obj\Debug\Demo_Delegate_Single_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\obj\Debug\Demo_Delegate_Single_Casting.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Delegate_Single_Casting\Demo_Delegate_Single_Casting\obj\Debug\Demo_Delegate_Single_Casting.pdb

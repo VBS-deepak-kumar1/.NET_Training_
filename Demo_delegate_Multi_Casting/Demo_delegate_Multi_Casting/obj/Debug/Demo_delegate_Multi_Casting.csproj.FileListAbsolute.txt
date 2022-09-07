@@ -1,0 +1,7 @@
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\bin\Debug\Demo_delegate_Multi_Casting.exe.config
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\bin\Debug\Demo_delegate_Multi_Casting.exe
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\bin\Debug\Demo_delegate_Multi_Casting.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\obj\Debug\Demo_delegate_Multi_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\obj\Debug\Demo_delegate_Multi_Casting.exe
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\obj\Debug\Demo_delegate_Multi_Casting.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_delegate_Multi_Casting\Demo_delegate_Multi_Casting\obj\Debug\Demo_delegate_Multi_Casting.csproj.AssemblyReference.cache

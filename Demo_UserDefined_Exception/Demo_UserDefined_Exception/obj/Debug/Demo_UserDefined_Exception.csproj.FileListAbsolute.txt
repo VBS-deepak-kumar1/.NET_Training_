@@ -1,0 +1,6 @@
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\obj\Debug\Demo_UserDefined_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\bin\Debug\Demo_UserDefined_Exception.exe.config
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\bin\Debug\Demo_UserDefined_Exception.exe
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\bin\Debug\Demo_UserDefined_Exception.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\obj\Debug\Demo_UserDefined_Exception.exe
+C:\Users\Deepak Kumar\source\repos\Demo_UserDefined_Exception\Demo_UserDefined_Exception\obj\Debug\Demo_UserDefined_Exception.pdb

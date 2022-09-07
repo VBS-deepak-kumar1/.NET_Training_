@@ -1,0 +1,7 @@
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\bin\Debug\OrderException.exe.config
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\bin\Debug\OrderException.exe
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\bin\Debug\OrderException.pdb
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\obj\Debug\OrderException.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\obj\Debug\OrderException.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\obj\Debug\OrderException.exe
+C:\Users\Deepak Kumar\source\repos\OrderException\OrderException\obj\Debug\OrderException.pdb

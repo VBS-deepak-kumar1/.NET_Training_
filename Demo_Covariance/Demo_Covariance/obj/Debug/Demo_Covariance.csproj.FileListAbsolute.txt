@@ -1,0 +1,7 @@
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\bin\Debug\Demo_Covariance.exe.config
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\bin\Debug\Demo_Covariance.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\bin\Debug\Demo_Covariance.pdb
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\obj\Debug\Demo_Covariance.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\obj\Debug\Demo_Covariance.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\obj\Debug\Demo_Covariance.exe
+C:\Users\Deepak Kumar\source\repos\Demo_Covariance\Demo_Covariance\obj\Debug\Demo_Covariance.pdb
